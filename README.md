@@ -1,1 +1,1 @@
-/screenshot.JPG
+screenshot.JPG
