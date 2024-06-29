@@ -13,21 +13,18 @@ Welcome to the **Software Engineering Quiz App**! This interactive quiz game all
 ## 🖼️ Screenshots
 
 ### Course Selection Screen
-![Course Selection Screen](https://drive.google.com/file/d/1aWMp1oed5Ljlb5l8jpGt8jEfQjkY1GFf)
+![Course Selection Screen](https://drive.google.com/uc?id=1aWMp1oed5Ljlb5l8jpGt8jEfQjkY1GFf)
 *Course selection screen where users choose their quiz topic.*
 
 ### Quiz Question Screen
-![Quiz Question Screen](https://drive.google.com/file/d/1IJBQPJJLIUdcBKLYYFxmXasD60oNRr85)
+![Quiz Question Screen](https://drive.google.com/uc?id=1aWMp1oed5Ljlb5l8jpGt8jEfQjkY1GFf)
 *Quiz question screen showing a question and multiple-choice options.*
 
 ### Quiz Result Screen
-![Quiz Result Screen](https://drive.google.com/file/d/1tn2yYfrRYpwnJBRxtGhUgd-Hc4C6HMsW)
+![Quiz Result Screen](https://drive.google.com/uc?id=1aWMp1oed5Ljlb5l8jpGt8jEfQjkY1GFf)
 *Result screen displaying the user's score after completing the quiz.*
 
 ## 🛠️ Installation
 
 To run the quiz app on your local machine, follow these steps:
-
-**Clone the repository**:
-   ```bash
-   git clone https://github.com/Gemeking/Python-quiz-.git
+...
